@@ -8,3 +8,5 @@ See Droplet.html for all the websites that I had to browse before compiling and 
 Jupyter_notebook.scpt allows me to drag and drop ipynb files into a droplet app that I can put onto the Finder toolbar which will open the directory of file in Terminal 
 and then use nbopen to open the file from Terminal.
 
+(There is a second applescript repository as to not confuse you with other files). 
+
