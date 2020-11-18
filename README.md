@@ -1,4 +1,4 @@
-# applescript
+# Applescript
 
 Scripts that I like to use to make life easier.
 
