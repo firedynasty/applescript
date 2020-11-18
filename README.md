@@ -19,6 +19,6 @@ How to split a string in applescript, here I am splitting with a "." So if you h
 
 ## Juicy - Creating a textfile from your finder
 
-And if you want to create a text file directly from your finder window, you can click on the app icon. [!See](https://github.com/firedynasty/applescript/blob/master/create_textfile_from_finder/image1.png)
+And if you want to create a text file directly from your finder window, you can click on the app icon. ![See](https://github.com/firedynasty/applescript/blob/master/create_textfile_from_finder/image1.png)
 
 
